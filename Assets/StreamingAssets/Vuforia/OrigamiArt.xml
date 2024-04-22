@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="QR_Rooster" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Lion" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Jirafa" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Horse" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Dragon" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Dog" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Crane" size="0.050000 0.050092" />
+    <ImageTarget name="QR_Ciervo" size="0.050000 0.050092" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Catalog.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Robot.unity
+    guid: a1a93f1ea7d03e5448f95f3b02f9034e
+  - enabled: 0
+    path: Assets/Scenes/Map.unity
+    guid: 358023e0ef249a14b95515fc4bccdfcc
+  - enabled: 0
+    path: Assets/Scenes/Astronaut.unity
+    guid: e130dbb9fdf89f54986df4db845418bd
+  - enabled: 0
+    path: Assets/Scenes/Crane.unity
+    guid: abc9b9afa9880e445b69f061cddf206d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d8b3f3f0db2c6e6448f98b039c5a2a39, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de4055e41296da849b0935989f98172d, type: 2}
